@@ -1,2 +1,2 @@
 for practice git revert 
-echo 'hello world'
+echo 'update from main branch'
