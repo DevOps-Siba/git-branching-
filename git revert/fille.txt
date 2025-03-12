@@ -1,3 +1,0 @@
-for practice git rebase
-echo 'update from main branch'
-
