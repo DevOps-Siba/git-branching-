@@ -1,3 +1,2 @@
 echo "Line-1 : Initial content"
 echo "Line-2 : Added new feature"
-echo "Line-3 : Added buggy code"
