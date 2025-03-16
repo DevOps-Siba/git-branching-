@@ -1,2 +1,0 @@
-echo "Line-1 : Initial content"
-echo "Line-2 : Added new feature"
